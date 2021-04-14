@@ -5,7 +5,7 @@
 ![Sudoku](screenshots/Sudoku.png)
 
 # Requirements
-- Pyhton3 [**https://www.python.org/download/releases/3.0/**](https://www.python.org/download/releases/3.0/)
-- Pygame [**pip install pygame**]
+- Pyhton3 **https://www.python.org/download/releases/3.0/**(https://www.python.org/download/releases/3.0/)
+- Pygame (**pip install pygame** (*pip3 install pygame*))
 - To run the game:
-  - python game.py (*python3 game.py*)
+  - **python game.py** (*python3 game.py*)
